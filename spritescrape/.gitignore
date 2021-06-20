@@ -1,1 +1,4 @@
-game_boy_gbc/
+.ipynb_checkpoints
+completed_games.json
+gamesdict.json
+spritesdata/
